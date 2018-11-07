@@ -9,7 +9,7 @@
 # them using the array key as an HTML document.
 #
 
-outdir="${HOME}/public_html/alt-domains/election/";
+outdir="${HOME}/public_html/";
 
 declare -A results;
 results=( ["governor"]="https://electionresults.sos.state.mn.us/Results/Governor/115?officeInElectionId=17115"
